@@ -1,0 +1,5 @@
+Credentials cache: API:DD47F16D-80C6-4F90-90C7-A7EDF3D11126
+        Principal: zarslan@42ISTANBUL.COM.TR
+
+  Issued                Expires               Principal
+Sep  2 13:26:25 2021  Sep  2 23:26:13 2021  krbtgt/42ISTANBUL.COM.TR@42ISTANBUL.COM.TR
